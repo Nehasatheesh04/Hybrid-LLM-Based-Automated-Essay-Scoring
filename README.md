@@ -36,7 +36,7 @@ Final predictions come from an **XGBoost regressor** trained under strict 10-fol
 | Adjacent Agreement | 0.917 |
 | Spearman Correlation | 0.945 |
 
-*First LLM-based automated grading system for Malayalam.*
+* LLM-based automated grading system for Malayalam.*
 
 ---
 
